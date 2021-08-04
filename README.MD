@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer, Full Stacker Developer, and Cat Lover!
 
-- I'm currently searching for a job as a developer. 🧑🏿‍💻
+- I'm currently working as a developer at Actua Solutions. 🧑🏿‍💻
 - I'm currently learning everything. 📚
 - My primary skills are evolving web/android development. 🌐
 
