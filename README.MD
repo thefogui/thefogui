@@ -3,10 +3,10 @@
 ## I'm a Software Engineer.
 
 - I'm currently working as a developer at Actua Solutions. 🧑🏿‍💻
-- I'm currently learning everything. 📚
+- I'm currently learning how to work at scaling a small database into a big one. 📚
 - My primary skills are evolving web/android development. 🌐
 
-## Conect with me:
+## Connect with me:
 
 <br />
 
