@@ -1,6 +1,6 @@
 # Hi there, I'm Vitor Carvalho - aka thefogui
 
-## I'm a Software Engineer, Full Stacker Developer, and Cat Lover!
+## I'm a Software Engineer.
 
 - I'm currently working as a developer at Actua Solutions. 🧑🏿‍💻
 - I'm currently learning everything. 📚
