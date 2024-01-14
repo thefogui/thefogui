@@ -1,4 +1,4 @@
-# Hi there, I'm Vitor Carvalho - aka thefogui
+# Hi there, I'm Vitor Carvalho 
 
 ## I'm a Software Engineer.
 
