@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer.
 
-- I'm currently working as a developer at Factor energia. 🧑🏿‍💻
-- I'm currently learning how to work at scaling a small database into a big one. 📚
+- I'm currently working as a developer at VASS Company. 🧑🏿‍💻
+- I'm currently learning how to scale a small database into a big one. 📚
 - My primary skills are evolving web/android development. 🌐
 
 ## Connect with me:
